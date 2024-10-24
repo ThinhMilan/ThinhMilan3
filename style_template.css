@@ -1,0 +1,74 @@
+@charset "utf-8";
+.header {
+    margin-right: auto;
+    margin-left: 229px;
+    margin-bottom: 0;
+    margin-top: -9px;
+}
+body {
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 900px;
+}
+
+.menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+}
+.menu li a {
+    color: #FFFFFF;
+    background-color: #29639E;
+    margin-top: -5px;
+    margin-left: -6px;
+    padding-left: 25.6px;
+   
+}
+.menu a {
+    display: block;
+    padding-right: 12.2px;
+    padding-left: 13.2px;
+    padding-bottom: 6px;
+    text-decoration: none;
+}
+.main .left {
+    padding-left: 13px;
+    width: 137px;
+    height: 488px;
+    background-color: #5190D0;
+    margin-left: 229px;
+    margin-top: -4px;
+    background-image: url(nen_trai.gif);
+}
+.main .left .giua {
+    height: 100px;
+    margin-left: 138px;
+    margin-top: -447px;
+    background-color: #FFFFFF;
+    width: 428px;
+}
+.left .giua #picgiua {
+    margin-left: -1px;
+
+}
+
+
+.main .left #pic {
+    margin-top: -12px;
+    margin-left: -1px;
+}
+.main .right {
+    height: 480px;
+    width: 129px;
+    background-color: #5190D0;
+    margin-left: 806px;
+    margin-top: -478px;
+    background-image: url(nen_phai.gif);
+}
+.main .right #pics {
+    margin-left: 4px;
+    padding-top: 0px;
+}

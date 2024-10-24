@@ -1,0 +1,108 @@
+@charset "utf-8";
+body {
+	  width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 900px;
+}
+.header {
+    margin-right: auto;
+    margin-left: 229px;
+    margin-bottom: 0;
+    margin-top: -9px;
+}
+.menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+}
+.menu li a {
+    color: #FFFFFF;
+    background-color: #29639E;
+    margin-top: -5px;
+    margin-left: -6px;
+    padding-left: 25.6px;
+   
+}
+.menu a {
+    display: block;
+    padding-right: 12.2px;
+    padding-left: 13.2px;
+    padding-bottom: 6px;
+    text-decoration: none;
+}
+.main .left {
+    padding-left: 13px;
+    width: 137px;
+    height: 661px;
+    background-color: #5190D0;
+    margin-left: 229px;
+    margin-top: -4px;
+    background-image: url(nen_trai.gif);
+}
+.main .left .giua {
+    height: 100px;
+    margin-left: 138px;
+    margin-top: -458px;
+    background-color: #FFFFFF;
+    width: 428px;
+}
+.left .giua #picgiua {
+    margin-left: -1px;
+
+}
+
+
+.main .left #pic {
+    margin-top: -12px;
+    margin-left: -1px;
+}
+.main .right {
+    height: 643px;
+    width: 129px;
+    background-color: #5190D0;
+    margin-left: 806px;
+    margin-top: -649px;
+    background-image: url(nen_phai.gif);
+}
+.left .giua #text1 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.main .right #pics {
+    margin-left: 8px;
+    padding-top: 0px;
+}
+.giua #midpic1 .text {
+    font-family: tahoma;
+    font-size: 13px;
+    margin-left: 186px;
+    margin-top: -137px;
+}
+.left .giua #midpic2 {
+    margin-top: 49px;
+    margin-left: 10px;
+}
+.giua #midpic2 .text {
+    font-family: tahoma;
+    font-size: 13px;
+    margin-left: 183px;
+    margin-top: -137px;
+	
+}
+
+.left .giua #midpic1 {
+    margin-left: 10px;
+}
+.left .giua #midpic3 {
+    margin-left: 8px;
+    margin-top: 59px;
+}
+.giua #midpic3 .text {
+    font-family: tahoma;
+    font-size: 13px;
+    margin-left: 187px;
+    margin-top: -141px;
+}
